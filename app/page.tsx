@@ -21,8 +21,8 @@ export default function CafeProfile() {
   const alamat = "Jl. Situ Cileunca No.1 Pulosari Kecamatan Pangalengan Kabupaten Bandung";
 
   const menuKopi = [
-    { nama: "Kopi Susu Imok", harga: "22k", deskripsi: "Kopi susu gula aren andalan dengan racikan spesial.", gambar: "/images/kopi-susu-imok.jpg" },
-    { nama: "Americano", harga: "18k", deskripsi: "Espresso murni yang disajikan dengan air panas, menyegarkan.", gambar: "/images/americano.jpg" },
+    { nama: "Karamel Machiato", harga: "20k", deskripsi: "Belum ada keterangan.", gambar: "/images/karamel-machiato.jpeg" },
+    { nama: "Caramel Coffeelatte.jpeg", harga: "17k", deskripsi: "Belum ada keterangan", gambar: "/images/caramel-coffeelatte.jpeg" },
     { nama: "Cafe Latte", harga: "25k", deskripsi: "Perpaduan sempurna espresso, susu steam, dan foam lembut.", gambar: "/images/cafe-latte.jpg" },
     { nama: "V60 (Single Origin)", harga: "28k", deskripsi: "Kopi seduh manual pilihan, cita rasa unik dari biji terbaik.", gambar: "/images/v60.jpg" },
     { nama: "Matcha Latte", harga: "28k", deskripsi: "Minuman teh hijau Jepang premium dengan susu.", gambar: "/images/matcha-latte.jpg" },
